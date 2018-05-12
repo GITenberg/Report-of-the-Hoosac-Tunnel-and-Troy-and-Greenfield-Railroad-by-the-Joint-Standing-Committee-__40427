@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40617'
     url: http://www.gutenberg.org/2009/agents/40617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40427#Report-of-the-Hoosac-Tunnel-and-Troy-and-Greenfield-Railroad-by-the-Joint-Standing-Committee-_
 gutenberg_issued: '2012-08-06'
 gutenberg_type: Text
 identifiers:
