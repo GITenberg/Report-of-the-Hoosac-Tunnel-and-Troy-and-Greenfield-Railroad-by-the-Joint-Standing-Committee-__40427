@@ -1,0 +1,30 @@
+_repo: Report-of-the-Hoosac-Tunnel-and-Troy-and-Greenfield-Railroad-by-the-Joint-Standing-Committee-__40427
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40427-h/images/cover_epub.jpg
+creator:
+  author:
+    agent_name: Wentworth, Tappan
+    alias: Wentworth, T. (Tappan)
+    birthdate: 1802
+    deathdate: 1875
+    gutenberg_agent_id: '40617'
+    url: http://www.gutenberg.org/2009/agents/40617
+description: ''
+gutenberg_issued: '2012-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Railroad tunnels -- Massachusetts'
+- !lcsh 'Troy and Greenfield Railroad Company'
+- !lcsh 'Hoosac Tunnel (Mass.)'
+title: Report of the Hoosac Tunnel and Troy and Greenfield Railroad, by the Joint
+  Standing Committee of 1866.
+url: http://www.gutenberg.org/ebooks/40427
